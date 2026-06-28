@@ -3,18 +3,15 @@
 
 <!-- Badges -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amer-css)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-shamlan-،pmp-0306bb176)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-shamlan-%D9%8A%D8%A5%D9%85%D8%A8%D9%8A-0306bb176)
 
 &nbsp;
 
 <!-- Talking about you -->
 
-
-**Languages and Tools:** 
-
-<p>
+**Languages and Tools:** <p>
   <a href="https://github.com/Amer-css">
-    <img width="55%" align="right" alt="Amer-css's github stats" src="https://github-readme-stats.vercel.app/api?username=Amer-css&show_icons=true&hide_border=true" />
+    <img width="48%" align="right" alt="Amer-css's github stats" src="https://github-readme-stats.vercel.app/api?username=Amer-css&show_icons=true&hide_border=true" />
   </a>
 
   <!-- Languages and tools logos -->
@@ -28,6 +25,15 @@
   <code><img width="10%" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
   <code><img width="10%" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
   <code><img width="10%" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></code>
+</p>
+
+**LeetCode Progress:**
+<p>
+  <a href="https://leetcode.com/u/amer-css/">
+    <img src="https://img.shields.io/badge/LeetCode-amer--css-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <img src="https://img.shields.io/badge/Solved-1-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-1-orange?style=for-the-badge" />
 </p>
 
 <!-- Profile Views Count -->
