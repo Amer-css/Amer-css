@@ -1,44 +1,43 @@
-<!-- Title -->
-## Hi, I'm Amer, Back-End Developer🚀  
+I'm Amer <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-review-24.svg" width="30" height="30" align="center" />
+=============================================================================================================================
 
-<!-- Badges -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amer-css)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amer-shamlan-%D9%8A%D8%A5%D9%85%D8%A8%D9%8A-0306bb176)
+Back-End Developer
+------------------
 
-&nbsp;
+I am a passionate Back-End Developer dedicated to engineering robust, scalable, and highly efficient server-side systems. My technical foundation is built heavily on C#, .NET ecosystem, and Microsoft SQL Server management.
 
-<!-- Talking about you -->
+* 🌍  I'm based in KSA
+* ✉️  You can contact me at [ame2er15@gmail.com](mailto:ame2er15@gmail.com)
+* 🧠  I'm currently learning RESTful APIs with .NET
+* 👥  I'm looking to collaborate on Open-source .NET projects, Back-End architecture for web applications
 
-**Languages and Tools:** <p>
-  <a href="https://github.com/Amer-css">
-    <img width="48%" align="right" alt="Amer-css's github stats" src="https://github-readme-stats.vercel.app/api?username=Amer-css&show_icons=true&hide_border=true" />
-  </a>
+---
 
-  <!-- Languages and tools logos -->
-  <code><img width="10%" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=.net&logoColor=white"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></code>
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/SQL-4169E1?style=flat&logo=microsoft-sql-server&logoColor=white"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"></code>
-  <br />
-  <code><img width="10%" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
-  <code><img width="10%" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></code>
-</p>
+### 🛠️ Languages & Tools
 
-**LeetCode Progress:**
-<p>
-  <a href="https://leetcode.com/u/amer-css/">
-    <img src="https://img.shields.io/badge/LeetCode-amer--css-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <img src="https://img.shields.io/badge/Solved-1-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-1-orange?style=for-the-badge" />
-</p>
-
-<!-- Profile Views Count -->
-<p align="center">
-  <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=Amer-css&style=flat&color=orange&label=PROFILE+VIEWS" />
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
 </p>
 
 ---
+
+### 🌐 Socials
+
+<p align="left"> <a href="https://www.github.com/Amer-css" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/Amer-css" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/amer-shamlan-0306bb176" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/amer7441" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.stackoverflow.com/users/32888607" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+
+---
+
+### 📊 Performance Dashboards
+
+<b>My GitHub Stats</b>
+<p align="left">
+  <a href="http://www.github.com/Amer-css"><img src="https://github-readme-stats.vercel.app/api?username=Amer-css&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Amer-css's GitHub stats" /></a>
+  <a href="http://www.github.com/Amer-css"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amer-css&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
+
+<b>My Codewars Rank</b>
+<p align="left">
+  <a href="https://www.codewars.com/users/AmerShamlan">
+    <img src="https://www.codewars.com/users/AmerShamlan/badges/large" alt="Codewars Badge" />
+  </a>
+</p>
