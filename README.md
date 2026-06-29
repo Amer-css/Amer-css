@@ -41,3 +41,12 @@ I am a passionate Back-End Developer dedicated to engineering robust, scalable, 
     <img src="https://www.codewars.com/users/AmerShamlan/badges/large" alt="Codewars Badge" />
   </a>
 </p>
+
+
+## 🐍 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amer-css/Amer-css/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amer-css/Amer-css/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Amer-css/Amer-css/output/github-snake.svg">
+</picture>
