@@ -6,7 +6,7 @@ Back-End Developer
 
 I am a passionate Back-End Developer dedicated to engineering robust, scalable, and highly efficient server-side systems. My technical foundation is built heavily on C#, .NET ecosystem, and Microsoft SQL Server management.
 
-* 🌍  I'm based in KSA
+* 🌍  I'm based in Riyadh KSA
 * ✉️  You can contact me at [ame2er15@gmail.com](mailto:ame2er15@gmail.com)
 * 🧠  I'm currently learning RESTful APIs with .NET
 * 👥  I'm looking to collaborate on Open-source .NET projects, Back-End architecture for web applications
